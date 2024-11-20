@@ -1,20 +1,33 @@
 export const experiences = [
-  {
-    id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
-  },
-  {
-    id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
-  },
-  {
-    id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
-  }
+    {
+        id: 1,
+        title: 'Sr. Game Developer',
+        company: "CLV Technologies.",
+        duration: "(Mar 2024 - Present)"
+    },
+    {
+        id: 2,
+        title: "Sr. Game Developer",
+        company: "Terafort Private Limited",
+        duration: "(Dec 2021 - Feb 2024)"
+    },
+    {
+        id: 3,
+        title: "Game Developer",
+        company: "Abstron Private Limited",
+        duration: "(Dec 2020 - Dec 2021)"
+    },
+    {
+        id: 4,
+        title: "Game Developer",
+        company: "Funsol Technologies Pvt Limited",
+        duration: "(Oct 2019 - Dec 2020"
+    }
+    ,
+    {
+        id: 5,
+        title: "Game Developer (Intern)",
+        company: "Naulix Solutions",
+        duration: "(July 2019 - Oct 2019"
+    }
 ]
