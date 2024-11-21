@@ -25,6 +25,17 @@ export const projectsData = [
         demo: '',
         image: travel,
         youtubeUrl: "https://www.youtube.com/watch?v=vuuZpaSFa2s",
+    },
+    {
+        id: 3,
+        name: 'FPS MVP for Wagmi',
+        description: 'sd',
+        tools: ['Unreal', 'c++', 'Blueprints', 'PC windows'],
+        role: 'Gameplay programmer',
+        code: '',
+        demo: '',
+        image: travel,
+        youtubeUrl: "https://youtu.be/OVmfw0XZbAQ",
     }
 ];
 
